@@ -14,7 +14,8 @@ This project was developed as part of the DTU course **42577 – Introduction to
 
 Electric vehicles (EVs) are essential for reducing emissions and enabling sustainable mobility. This project puts the student in the role of an EV charging provider aiming to improve charging operations, predict demand, and guide future investments.
 
-The dataset (**EVChargingStationUsage.csv**) contains thousands of charging events, including start/end times, energy consumption, geographical information, plug type, and user identifiers. Each row represents a charging session.
+The dataset (**EVChargingStationUsage.csv**) contains thousands of charging events, including start/end times, energy consumption, geographical information, plug type, and user identifiers. Each row represents a charging session.  
+**The CSV file is not included in this repository because it exceeds GitHub's file size limits, but it was used locally throughout the analysis.**
 
 ---
 
