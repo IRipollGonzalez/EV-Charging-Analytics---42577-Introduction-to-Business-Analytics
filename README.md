@@ -1,0 +1,2 @@
+# EV-Charging-Analytics---42577-Introduction-to-Business-Analytics
+Analysis of electric vehicle charging behavior in Palo Alto using clustering, time-series forecasting, and exploratory analytics. Developed as part of DTU course 42577 – Introduction to Business Analytics, the project builds user segments, predicts hourly station consumption, and provides long-term strategic insights for EV infrastructure planning.
